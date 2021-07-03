@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jonathan Henrique Galdino da Silva, Brazil, Jundiaí - São Paulo
+Jonathan Henrique Galdino, Brazil, Jundiaí - São Paulo
 
 Computer Science Student - IFTM<br>
 Looking for a Internship
