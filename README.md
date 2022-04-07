@@ -17,8 +17,9 @@ Currenty looking for a internship!
 <img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max width:100%;"></a>
 
 ### <h2>Stats</h2><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poliekos&layout=compact)](https://github.com/poliekos/github-readme-stats)<br>
-
-
+<div>
+<img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=poliekos&layout=compact&theme=dark&include_all_icons=true)(https://github.com/poliekos/github-readme-stats">
+<img height = 180em src = "https://github-readme-stats.vercel.app/api?username=poliekos&theme=dark&show_icons=true">
+</div>
 
 
