@@ -3,7 +3,7 @@
 Jonathan Henrique Galdino, Brazil, Jundiaí - São Paulo
 
 Computer Science Student - IFTM<br>
-Currenty looking for a internship!
+.NET Intern
 
 ### <h2>Contact</h2><br>
 <a href = "https://www.linkedin.com/in/jhgaldino/"><img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max width:100%;"></a>
