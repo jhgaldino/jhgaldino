@@ -21,7 +21,7 @@ Graduated in Computer Science - IFTM<br>
 
 ### <h2>Stats</h2><br>
 <div>
-<img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jhgaldino&layout=compact&theme=dark&include_all_icons=true)(https://github.com/poliekos/github-readme-stats">
+<img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jhgaldino&layout=compact&theme=dark&include_all_icons=true)(https://github.com/jhgaldino/github-readme-stats">
 <img height = 180em src = "https://github-readme-stats.vercel.app/api?username=jhgaldino&theme=dark&show_icons=true">
 </div>
 
