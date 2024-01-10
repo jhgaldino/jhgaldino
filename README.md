@@ -9,7 +9,7 @@ Graduated in Computer Science - IFTM<br>
 <a href = "https://www.linkedin.com/in/jhgaldino/"><img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max width:100%;"></a>
 <a href = "https://www.instagram.com/poliekos"><img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/instagram-original.svg" style="max width:100%;"></a>
 <a href = "https://twitter.com/poliekos"><img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max width:100%;"></a>
-<a href="https://iconscout.com/icons/instagram" class="text-underline font-size-sm" target="_blank">instagram</a> by <a href="https://iconscout.com/contributors/unicons" class="text-underline font-size-sm">Unicons Font</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+
 ### <h2> Skills</h2><br>
 <img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max width:100%;"></a>
 <img align="center" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max width:100%;"></a>
