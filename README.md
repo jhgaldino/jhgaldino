@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Backend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhgaldino" alt="jhgaldino" /></a> </p>
-
 - 🌱 I’m currently learning **RabbitMQ**
 
 - 👨‍💻 All of my projects are available at [https://jhgaldino.github.io/portfolio/](https://jhgaldino.github.io/portfolio/)
