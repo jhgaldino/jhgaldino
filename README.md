@@ -13,7 +13,7 @@
 <a href="https://twitter.com/xeozea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xeozea" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhgaldino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhgaldino" height="30" width="40" /></a>
 <a href="https://instagram.com/poliekos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poliekos" height="30" width="40" /></a>
-<a href="https://discord.gg/1000529314883850270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1000529314883850270" height="30" width="40" /></a>
+<a href="https://discord.gg/1000529314883850270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="poliekos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
